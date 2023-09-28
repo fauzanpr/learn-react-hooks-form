@@ -1,5 +1,10 @@
 # React + Vite
 
+## React Hooks Form
+- Manage Form data
+- Submit form data
+- Enforce validations and provide visual feedback
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
